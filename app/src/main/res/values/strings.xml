@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tour Guide App Dhanbad</string>
+    <string name="attractions">Attractions</string>
+    <string name="religious_sites">Religious Sites</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="shopping">Shopping</string>
+
+    <!--strings for all the place title -->
+    <string name="maithondam">Maithon Dam</string>
+    <string name="bhatindafalls">Bhatinda Fall</string>
+    <string name="birsamunda">Birsa Munda Park</string>
+    <string name="topchanchi">Topchanchi Wildlife Sanctuary</string>
+    <string name="shaktimandir">Shakti Mandir</string>
+    <string name="bhuiphoremandir">Bhuiphore Mandir</string>
+    <string name="jagannathmandir">Jagannath Mandir</string>
+    <string name="dominos">Dominos Pizza</string>
+    <string name="khalsa">Khalsa Hotel</string>
+    <string name="shahi">Shahi Darbar</string>
+    <string name="degree">17th Degree Restaurant</string>
+    <string name="madhulika">Madhulika Sweets</string>
+    <string name="ozone_mall">Ozone Galleria Mall</string>
+    <string name="city_centre">City Center</string>
+    <string name="shriram_plaza">ShriRam Plaza</string>
+
+
+    <!--strings for attraction places -->
+    <string name="maithon_address">Kenjapahar Ist part al, Jharkhand 828207</string>
+    <string name="maithon_timings">Open 24 hours</string>
+    <string name="bhatinda_address">14 kms away from Dhanbad railway station,Jharkhand 828129</string>
+    <string name="bhatinda_timings">Opens at 9 Am closes at 5 Pm</string>
+    <string name="birsa_address">Hirak Road, Nawadih, Dhanbad, Jharkhand 826004</string>
+    <string name="birsa_timings">Closes 7PM</string>
+    <string name="topchanchi_address">Lake, Topchanchi,, Topchanchi, Jharkhand 828401</string>
+    <string name="topchanchi_timings">Closes 6PM</string>
+
+    <!--strings for religious places -->
+    <string name="shakti_address">Shakti Mandir Rd, Dhanbad, Jharkhand 826001</string>
+    <string name="jaganath_address">Anugrah Nagar, Dhanbad, Jharkhand 828106</string>
+    <string name="bhuiphore_address">Chanakya Nagar, Dhanbad, Jharkhand 828127</string>
+
+    <!--strings for restaurent places -->
+    <string name="shahi_address">Govindpur Road, police lines, near iit ism gate, Jharkhand 826001</string>
+    <string name="shahi_timings">Closes 11PM</string>
+    <string name="dominos_address">Shop No. 403, Fourth Floor, Ozone Galleria Mall Dhanbad - Govindpur, Main Rd, Sahayogi Nagar Sector II, Saraidhella, Jharkhand 828127</string>
+    <string name="dominos_timings">Closes 11PM</string>
+    <string name="degree_address"> Sriram Mall, Dhaunsar, Jharkhand 828106</string>
+    <string name="degree_timings">Open 24 hours</string>
+    <string name="madhulika_address">Shanti Bhawan, 9, Jharia Rd, Near, Bank More, Dhanbad, Jharkhand 826001</string>
+    <string name="madhulika_timings">Closes 9:30PM</string>
+    <string name="khalsa_address">GT Road Gobindpur, Ratanpur, Jharkhand 828109</string>
+    <string name="khalsa_timings">Closes 12:30AM</string>
+
+    <!--strings for shopping malls  -->
+    <string name="ozone_address">The Ozone Galleria Mall, NH-32, Sugiadih, Sahayogi Nagar Sector II, Dhanbad, Jharkhand 828127</string>
+    <string name="ozone_timings">Closes 11PM</string>
+    <string name="sriram_address">Jharia Rd, Bank More, Dhanbad, Jharkhand 826001</string>
+    <string name="sriram_timings">Closes 8PM</string>
+    <string name="citycentre_address">  Luby Circular Rd, Jay Prakash Nagar, Jharudih, Dhanbad, Jharkhand 826001</string>
+    <string name="citycentre_timings">Closes 11PM</string>
+
+
+</resources>
