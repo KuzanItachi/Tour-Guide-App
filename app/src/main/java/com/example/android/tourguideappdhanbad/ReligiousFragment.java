@@ -22,6 +22,7 @@ public class ReligiousFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.word_list, container, false);
         final ArrayList<Description> sites = new ArrayList<>();
         // List of places which are famous religious sites
+        int countOfReligiousPlaces= 0;
         sites.add(new Description(getString(R.string.shakti_address), R.drawable.shaktimandir, getString(R.string.shaktimandir)));
         sites.add(new Description(getString(R.string.bhuiphore_address), R.drawable.bhuiphore, getString(R.string.bhuiphoremandir)));
         sites.add(new Description(getString(R.string.jaganath_address), R.drawable.jagannath, getString(R.string.jagannathmandir)));
@@ -30,6 +31,7 @@ public class ReligiousFragment extends Fragment {
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
+        System.out.println(countOfReligiousPlaces);
         return rootView;
     }
 }
