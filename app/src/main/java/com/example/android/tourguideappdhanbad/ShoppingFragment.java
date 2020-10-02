@@ -20,7 +20,8 @@ public class ShoppingFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.word_list, container, false);
-        // List of places which are famous shopping malls
+        // List of places which are famous shopping malls in Dhanbad
+        int countOfShoppingMalls = 0;
         final ArrayList<Description> malls = new ArrayList<>();
         malls.add(new Description(getString(R.string.ozone_address), getString(R.string.ozone_timings), R.drawable.ozonegalleria,
                 getString(R.string.ozone_mall)));
